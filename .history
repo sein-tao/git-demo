@@ -1,0 +1,10 @@
+cd git-demo/
+cd git-demo/
+cd git-demo/
+cd git-demo/
+git init
+ls -al
+ls .git/
+cat .git/config 
+echo "# git-demo" >> README.md
+ls 
