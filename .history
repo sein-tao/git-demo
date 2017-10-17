@@ -8,3 +8,7 @@ ls .git/
 cat .git/config 
 echo "# git-demo" >> README.md
 ls 
+cd git-demo-clone/
+cd git-demo-clone/
+cat README.md 
+echo "# git-demo-new-line" > README.md
